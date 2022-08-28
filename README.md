@@ -23,7 +23,7 @@ Here are the technologies used in this project. <br>
 
 * Github
 
-## See the Project | Veja o Projeto
+## See the Project
 
 ### 1 - When you access, you will see the Home page <3
 
@@ -46,7 +46,7 @@ Here are the technologies used in this project. <br>
 ![Portfolio](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/hardware.png)
 
 ## Links
-  - Repository | Repositório: https://github.com/gaboliveiradev/TeraStore
+  - Repository: https://github.com/gaboliveiradev/TeraStore
     - In case of sensitive bugs like security vulnerabilities, please contact
       gabriel.registros.exe@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
