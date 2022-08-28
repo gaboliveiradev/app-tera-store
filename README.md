@@ -1,35 +1,43 @@
+```
+ ######                               #####     ##
+ # ## #                              ##   ##    ##
+   ##      ####    ######    ####    #         #####    ####    ######    ####
+   ##     ##  ##    ##  ##      ##    #####     ##     ##  ##    ##  ##  ##  ##
+   ##     ######    ##       #####        ##    ##     ##  ##    ##      ######
+   ##     ##        ##      ##  ##   ##   ##    ## ##  ##  ##    ##      ##
+  ####     #####   ####      #####    #####      ###    ####    ####      #####
+```
+
 ## TeraStore Corporation
-🇺🇸 - TeraStore is a project that was developed as an evaluation activity of the Web Programming I class, where the main objective was to put Front-End knowledge into practice. The idea for this project emerged as a technology MarketPlace.<br><br>
-🇧🇷 - TeraStore é um projeto que foi desenvolvido como atividade avaliativa da aula de Programação Web I, onde o principal objetivo foi colocar em práticas conhecimentos de Front-End. A ideia deste projeto surgiu como um MarketPlace de tecnologia.
+TeraStore is a project that was developed as an evaluation activity of the Web Programming I class, where the main objective was to put Front-End knowledge into practice. The idea for this project emerged as a technology MarketPlace.<br>
 
 
-## Technology | Tecnologias
+## Technology
 
-🇺🇸 - Here are the technologies used in this project. <br>
-🇧🇷 - Aqui estão as tecnologias usadas neste projeto.
+Here are the technologies used in this project. <br>
 
 * HTML5
 * CSS3
 
-## Services Used | Serviços Usados
+## Services Used
 
 * Github
 
 ## See the Project | Veja o Projeto
 
-### 1 - When you access, you will see the Home page <3 | Ao acessar, você verá a página inicial <3
+### 1 - When you access, you will see the Home page <3
 
 ![Homepage image](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/home.png)
 
-### 2 - You can also read about the company. | Você também pode ler sobre a empresa.
+### 2 - You can also read about the company.
 
 ![Posts](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/sobre.png)
 
-### 3 - If necessary, you can contact :D | Caso precise poderá entrar em contato.
+### 3 - If necessary, you can contact :D
 
 ![Post show](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/contato.png)
 
-### 4 - These are the tabs where the products are :) | Essas são as abas onde ficam os produtos :)
+### 4 - These are the tabs where the products are :)
 
 ![Portfolio](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/computadores.png)
 ![Portfolio](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/computadores1.png)
@@ -52,6 +60,6 @@
 
   * **Gabriel Roberto de Oliveira Siqueira** 
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+  Please follow github and join us! <br>
+  Thanks to visiting me and good coding! :D
 
