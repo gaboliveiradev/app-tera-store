@@ -37,19 +37,10 @@
 ![Portfolio](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/perifericos.png)
 ![Portfolio](https://github.com/gaboliveiradev/TeraStore/blob/master/readme_assets/hardware.png)
 
-
-## Features
-
-The main features of the application are:
- - Publish Posts.
- - Learn a lot of information <3
-
-
 ## Links
-  - Deploy on Heroku: https://lucas-dev.com/
-  - Repository: https://github.com/Lucasdfg07/Blog_Lucas_Fernandes
+  - Repository | Repositório: https://github.com/gaboliveiradev/TeraStore
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      gabriel.registros.exe@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
 
   ## Versioning
@@ -59,7 +50,7 @@ The main features of the application are:
 
   ## Authors
 
-  * **Lucas Siqueira Fernandes** 
+  * **Gabriel Roberto de Oliveira Siqueira** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
