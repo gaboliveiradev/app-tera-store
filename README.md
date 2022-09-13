@@ -53,7 +53,7 @@ Here are the technologies used in this project. <br>
 
   ## Versioning
 
-  1.0.0.0
+  2.0.0.0
 
 
   ## Authors
